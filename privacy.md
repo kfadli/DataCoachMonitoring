@@ -33,7 +33,6 @@ When you authorize this application to access your Garmin Connect account, we co
 ### Technical Information
 
 - OAuth tokens (stored securely for API access)
-- IP addresses (for server logs)
 - Timestamps of API requests
 - Error logs (for debugging purposes)
 
@@ -51,8 +50,7 @@ We use the collected information for the following purposes:
 ### Storage Location
 
 Your data is stored in:
-- **[Specify location, e.g., "A secure database hosted on [provider/region]" or "Locally on your device"]**
-- **[If applicable: "Cloud storage provided by [provider]"]**
+- Cloud storage provided by Google Cloud
 
 ### Security Measures
 
@@ -91,8 +89,6 @@ You have the following rights regarding your personal information:
 4. **Portability**: Request a copy of your data in a portable format
 5. **Withdrawal of Consent**: Revoke OAuth authorization at any time through Garmin Connect settings
 6. **Objection**: Object to processing of your data for certain purposes
-
-To exercise these rights, please contact us at: **[Your Email Address]**
 
 ## Third-Party Services
 
